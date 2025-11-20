@@ -48,6 +48,12 @@ git clone https://github.com/Joshua-shields/Man-United-app.git
 
 4. Run the app on an emulator or physical device
 
+## Screenshots 
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/f744544d-3615-407f-93e7-947230b612b3" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/492ecd9e-4e2c-4c43-80d8-a9dff13a78d4" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/20b9b210-8039-4d5d-ac5c-3543c27100af" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/554f9bb3-0cc7-4333-aa81-ce31b88fff50" />
+
 ## API
 
 This app uses a Football API service to fetch live data. You may need to configure your own API key in the `FootballApiService.kt` file.
